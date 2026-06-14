@@ -186,8 +186,4 @@ This project is licensed under the MIT License.
 
 ---
 
-<<<<<<< HEAD
 **Disclaimer:** This tool is built for literary analysis purposes only and is not intended for any form of automated fact-checking outside of fictional/literary contexts.
-=======
-**Disclaimer:** This tool is built for literary analysis purposes only and is not intended for any form of automated fact-checking outside of fictional/literary contexts.
->>>>>>> 6b54333 (Initial commit)
