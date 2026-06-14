@@ -1,0 +1,61 @@
+story_id,prediction,rationale
+95,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+136,1,Insufficient evidence for determination: 6 passages retrieved but none provide decisive support or contradiction
+59,1,No textual evidence found mentioning character in relevant context
+60,1,No textual evidence found mentioning character in relevant context
+124,0,Dual contradictory evidence: two separate passages refute the claim
+111,0,Multiple contradictions found: 4 passages directly contradict claim with high confidence (avg 0.96)
+135,0,Concrete claim lacks verification: specific event (in 18) mentioned but no supporting textual evidence found across 6 relevant passages
+27,0,Specific factual claim lacks any supporting evidence in the text
+110,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+42,1,No textual evidence found mentioning character in relevant context
+56,1,No textual evidence found mentioning character in relevant context
+80,0,Specific factual claim lacks any supporting evidence in the text
+28,1,No textual evidence found mentioning character in relevant context
+101,1,Insufficient evidence for determination: 6 passages retrieved but none provide decisive support or contradiction
+91,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+24,1,No textual evidence found mentioning character in relevant context
+119,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+93,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+72,1,No textual evidence found mentioning character in relevant context
+16,0,Specific factual claim lacks any supporting evidence in the text
+30,1,No textual evidence found mentioning character in relevant context
+97,1,Insufficient evidence for determination: 6 passages retrieved but none provide decisive support or contradiction
+22,1,No textual evidence found mentioning character in relevant context
+53,1,No textual evidence found mentioning character in relevant context
+58,1,No textual evidence found mentioning character in relevant context
+81,1,No textual evidence found mentioning character in relevant context
+47,0,Specific factual claim lacks any supporting evidence in the text
+7,1,No textual evidence found mentioning character in relevant context
+121,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+129,0,Dual contradictory evidence: two separate passages refute the claim
+51,1,No textual evidence found mentioning character in relevant context
+127,1,Insufficient evidence for determination: 6 passages retrieved but none provide decisive support or contradiction
+133,1,Insufficient evidence for determination: 6 passages retrieved but none provide decisive support or contradiction
+52,1,No textual evidence found mentioning character in relevant context
+114,1,Insufficient evidence for determination: 6 passages retrieved but none provide decisive support or contradiction
+2,1,No textual evidence found mentioning character in relevant context
+33,1,No textual evidence found mentioning character in relevant context
+15,1,No textual evidence found mentioning character in relevant context
+82,1,No textual evidence found mentioning character in relevant context
+37,1,No textual evidence found mentioning character in relevant context
+3,1,No textual evidence found mentioning character in relevant context
+103,0,Dual contradictory evidence: two separate passages refute the claim
+94,0,Concrete claim lacks verification: specific event (after) mentioned but no supporting textual evidence found across 6 relevant passages
+85,1,No textual evidence found mentioning character in relevant context
+21,1,No textual evidence found mentioning character in relevant context
+49,1,No textual evidence found mentioning character in relevant context
+140,1,Claim involves interpretive content (sustained): textual contradictions ignored for subjective interpretation
+64,1,No textual evidence found mentioning character in relevant context
+131,0,Concrete claim lacks verification: specific event (in 17) mentioned but no supporting textual evidence found across 6 relevant passages
+61,1,No textual evidence found mentioning character in relevant context
+86,1,No textual evidence found mentioning character in relevant context
+38,1,No textual evidence found mentioning character in relevant context
+132,0,Dual contradictory evidence: two separate passages refute the claim
+77,1,No textual evidence found mentioning character in relevant context
+70,0,Specific factual claim lacks any supporting evidence in the text
+115,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+78,0,Specific factual claim lacks any supporting evidence in the text
+87,0,Direct textual contradiction: retrieved passage explicitly contradicts claim
+75,1,No textual evidence found mentioning character in relevant context
+44,1,No textual evidence found mentioning character in relevant context

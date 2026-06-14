@@ -1,0 +1,44 @@
+{
+  "glenarvan": [
+    "ayrton",
+    "john_mangles",
+    "mary_grant",
+    "paganel",
+    "robert"
+  ],
+  "john_mangles": [
+    "ayrton",
+    "glenarvan",
+    "mary_grant",
+    "paganel",
+    "robert"
+  ],
+  "ayrton": [
+    "glenarvan",
+    "john_mangles",
+    "mary_grant",
+    "paganel",
+    "robert"
+  ],
+  "mary_grant": [
+    "ayrton",
+    "glenarvan",
+    "john_mangles",
+    "paganel",
+    "robert"
+  ],
+  "robert": [
+    "ayrton",
+    "glenarvan",
+    "john_mangles",
+    "mary_grant",
+    "paganel"
+  ],
+  "paganel": [
+    "ayrton",
+    "glenarvan",
+    "john_mangles",
+    "mary_grant",
+    "robert"
+  ]
+}

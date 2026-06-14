@@ -1,0 +1,110 @@
+{
+  "danglars": [
+    "albert",
+    "caderousse",
+    "dantes",
+    "faria",
+    "fernand",
+    "maximilian",
+    "mercedes",
+    "noirtier",
+    "villefort"
+  ],
+  "dantes": [
+    "albert",
+    "caderousse",
+    "danglars",
+    "faria",
+    "fernand",
+    "maximilian",
+    "mercedes",
+    "noirtier",
+    "villefort"
+  ],
+  "maximilian": [
+    "albert",
+    "caderousse",
+    "danglars",
+    "dantes",
+    "faria",
+    "fernand",
+    "mercedes",
+    "noirtier",
+    "villefort"
+  ],
+  "mercedes": [
+    "albert",
+    "caderousse",
+    "danglars",
+    "dantes",
+    "faria",
+    "fernand",
+    "maximilian",
+    "noirtier",
+    "villefort"
+  ],
+  "caderousse": [
+    "albert",
+    "danglars",
+    "dantes",
+    "faria",
+    "fernand",
+    "maximilian",
+    "mercedes",
+    "noirtier",
+    "villefort"
+  ],
+  "fernand": [
+    "albert",
+    "caderousse",
+    "danglars",
+    "dantes",
+    "faria",
+    "maximilian",
+    "mercedes",
+    "noirtier",
+    "villefort"
+  ],
+  "faria": [
+    "caderousse",
+    "danglars",
+    "dantes",
+    "fernand",
+    "maximilian",
+    "mercedes",
+    "noirtier",
+    "villefort"
+  ],
+  "villefort": [
+    "albert",
+    "caderousse",
+    "danglars",
+    "dantes",
+    "faria",
+    "fernand",
+    "maximilian",
+    "mercedes",
+    "noirtier"
+  ],
+  "noirtier": [
+    "albert",
+    "caderousse",
+    "danglars",
+    "dantes",
+    "faria",
+    "fernand",
+    "maximilian",
+    "mercedes",
+    "villefort"
+  ],
+  "albert": [
+    "caderousse",
+    "danglars",
+    "dantes",
+    "fernand",
+    "maximilian",
+    "mercedes",
+    "noirtier",
+    "villefort"
+  ]
+}
